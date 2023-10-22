@@ -6,7 +6,7 @@ import HangManWord from "./HangManWord";
 function App() {
   const [wordToGuess, setWordToGuess] = useState(getWord);
 
-  const [guessedLetters, setGuessedLetters] = useState<string[]>(["g"]);
+  const [guessedLetters, setGuessedLetters] = useState<string[]>([]);
   const inCorrectLetters = guessedLetters.filter(
     (letter) => !wordToGuess.includes(letter)
   );
