@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/css/main.4f36413c.css",
-    "main.js": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/main.5fd9babd.js",
+    "main.js": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/main.e12e7b95.js",
     "static/js/787.20ace30e.chunk.js": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/787.20ace30e.chunk.js",
     "index.html": "/Hangman-Game-in-React-Typescript-and-Tailwind/index.html",
     "main.4f36413c.css.map": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/css/main.4f36413c.css.map",
-    "main.5fd9babd.js.map": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/main.5fd9babd.js.map",
+    "main.e12e7b95.js.map": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/main.e12e7b95.js.map",
     "787.20ace30e.chunk.js.map": "/Hangman-Game-in-React-Typescript-and-Tailwind/static/js/787.20ace30e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f36413c.css",
-    "static/js/main.5fd9babd.js"
+    "static/js/main.e12e7b95.js"
   ]
 }
